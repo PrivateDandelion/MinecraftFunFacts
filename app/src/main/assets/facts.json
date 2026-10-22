@@ -1,0 +1,282 @@
+[
+  {
+    "id": "fact_001",
+    "category": "Geschichte",
+    "title": "Die Anfänge",
+    "text": "Minecraft wurde im Mai 2009 erstmals öffentlich spielbar gemacht.",
+    "audio": "audio/fact_001.wav"
+  },
+  {
+    "id": "fact_002",
+    "category": "Geschichte",
+    "title": "Der erste Name",
+    "text": "Eine frühe Version von Minecraft trug den Namen Cave Game.",
+    "audio": "audio/fact_002.wav"
+  },
+  {
+    "id": "fact_003",
+    "category": "Geschichte",
+    "title": "Die Vollversion",
+    "text": "Die offizielle Vollversion von Minecraft erschien im November 2011.",
+    "audio": "audio/fact_003.wav"
+  },
+  {
+    "id": "fact_004",
+    "category": "Mobs",
+    "title": "Creeper und Schweine",
+    "text": "Der Creeper entstand durch einen Fehler bei der Modellierung eines Schweins.",
+    "audio": "audio/fact_004.wav"
+  },
+  {
+    "id": "fact_005",
+    "category": "Mobs",
+    "title": "Endermen und Regen",
+    "text": "Endermen erleiden Schaden durch Wasser und Regen.",
+    "audio": "audio/fact_005.wav"
+  },
+  {
+    "id": "fact_006",
+    "category": "Mobs",
+    "title": "Endermen schauen",
+    "text": "Wenn du einem Enderman direkt in die Augen schaust, kann er aggressiv werden.",
+    "audio": "audio/fact_006.wav"
+  },
+  {
+    "id": "fact_007",
+    "category": "Mobs",
+    "title": "Schneegolems",
+    "text": "Schneegolems hinterlassen auf geeigneten Blöcken eine Schneespur.",
+    "audio": "audio/fact_007.wav"
+  },
+  {
+    "id": "fact_008",
+    "category": "Mobs",
+    "title": "Eisengolems",
+    "text": "Eisengolems können Dorfbewohner vor feindlichen Mobs beschützen.",
+    "audio": "audio/fact_008.wav"
+  },
+  {
+    "id": "fact_009",
+    "category": "Mobs",
+    "title": "Katzen und Creeper",
+    "text": "Creeper halten normalerweise Abstand zu Katzen.",
+    "audio": "audio/fact_009.wav"
+  },
+  {
+    "id": "fact_010",
+    "category": "Mobs",
+    "title": "Phantome",
+    "text": "Phantome können erscheinen, wenn Spieler mehrere Spieltage lang nicht schlafen.",
+    "audio": "audio/fact_010.wav"
+  },
+  {
+    "id": "fact_011",
+    "category": "Mobs",
+    "title": "Bienen",
+    "text": "Bienen können beim Bestäuben Blumen und Pflanzen helfen.",
+    "audio": "audio/fact_011.wav"
+  },
+  {
+    "id": "fact_012",
+    "category": "Mobs",
+    "title": "Wölfe",
+    "text": "Gezähmte Wölfe können ihren Spielern im Kampf beistehen.",
+    "audio": "audio/fact_012.wav"
+  },
+  {
+    "id": "fact_013",
+    "category": "Mobs",
+    "title": "Schafe",
+    "text": "Ein eingefärbtes Schaf produziert nach dem Scheren wieder Wolle seiner Farbe.",
+    "audio": "audio/fact_013.wav"
+  },
+  {
+    "id": "fact_014",
+    "category": "Mobs",
+    "title": "Dorfbewohner",
+    "text": "Dorfbewohner besitzen Berufe und können Waren mit Spielern handeln.",
+    "audio": "audio/fact_014.wav"
+  },
+  {
+    "id": "fact_015",
+    "category": "Mobs",
+    "title": "Zombies im Sonnenlicht",
+    "text": "Normale Zombies können bei Tageslicht in Brand geraten, wenn sie nicht geschützt sind.",
+    "audio": "audio/fact_015.wav"
+  },
+  {
+    "id": "fact_016",
+    "category": "Blöcke",
+    "title": "Obsidian",
+    "text": "Obsidian entsteht, wenn Wasser auf einen Lavaquellblock trifft.",
+    "audio": "audio/fact_016.wav"
+  },
+  {
+    "id": "fact_017",
+    "category": "Blöcke",
+    "title": "Bedrock",
+    "text": "Grundgestein lässt sich im Überlebensmodus normalerweise nicht abbauen.",
+    "audio": "audio/fact_017.wav"
+  },
+  {
+    "id": "fact_018",
+    "category": "Blöcke",
+    "title": "Schwämme",
+    "text": "Schwämme können Wasser aus einem Bereich aufsaugen.",
+    "audio": "audio/fact_018.wav"
+  },
+  {
+    "id": "fact_019",
+    "category": "Blöcke",
+    "title": "Notenblöcke",
+    "text": "Die Klangfarbe eines Notenblocks hängt vom Block unter ihm ab.",
+    "audio": "audio/fact_019.wav"
+  },
+  {
+    "id": "fact_020",
+    "category": "Blöcke",
+    "title": "Schleimblöcke",
+    "text": "Schleimblöcke können beim Fallenlassen von Mobs und Spielern einen Hüpf-Effekt auslösen.",
+    "audio": "audio/fact_020.wav"
+  },
+  {
+    "id": "fact_021",
+    "category": "Blöcke",
+    "title": "Honigblöcke",
+    "text": "Honigblöcke verlangsamen Bewegungen und beeinflussen Kolbenkonstruktionen.",
+    "audio": "audio/fact_021.wav"
+  },
+  {
+    "id": "fact_022",
+    "category": "Redstone",
+    "title": "Signalstärke",
+    "text": "Redstone-Signale haben eine Signalstärke zwischen null und fünfzehn.",
+    "audio": "audio/fact_022.wav"
+  },
+  {
+    "id": "fact_023",
+    "category": "Redstone",
+    "title": "Repeater",
+    "text": "Redstone-Verstärker können Signale verzögern und verlängern.",
+    "audio": "audio/fact_023.wav"
+  },
+  {
+    "id": "fact_024",
+    "category": "Redstone",
+    "title": "Komparatoren",
+    "text": "Redstone-Komparatoren können unter anderem den Füllstand von Behältern auslesen.",
+    "audio": "audio/fact_024.wav"
+  },
+  {
+    "id": "fact_025",
+    "category": "Redstone",
+    "title": "Beobachter",
+    "text": "Beobachter können Veränderungen an benachbarten Blöcken erkennen.",
+    "audio": "audio/fact_025.wav"
+  },
+  {
+    "id": "fact_026",
+    "category": "Redstone",
+    "title": "Kolben",
+    "text": "Klebrige Kolben können beim Zurückziehen viele Blöcke wieder mitnehmen.",
+    "audio": "audio/fact_026.wav"
+  },
+  {
+    "id": "fact_027",
+    "category": "Welt",
+    "title": "Der Nether",
+    "text": "Im Nether entspricht ein zurückgelegter Block in der Horizontalen acht Blöcken in der Oberwelt.",
+    "audio": "audio/fact_027.wav"
+  },
+  {
+    "id": "fact_028",
+    "category": "Welt",
+    "title": "Das Ende",
+    "text": "Im Ende lebt der Enderdrache, einer der bekanntesten Bosse des Spiels.",
+    "audio": "audio/fact_028.wav"
+  },
+  {
+    "id": "fact_029",
+    "category": "Welt",
+    "title": "Pilzinsel",
+    "text": "In Pilzfeldern tauchen normalerweise keine gewöhnlichen feindlichen Mobs auf.",
+    "audio": "audio/fact_029.wav"
+  },
+  {
+    "id": "fact_030",
+    "category": "Welt",
+    "title": "Meeresmonument",
+    "text": "In Meeresmonumenten begegnen dir Wächter und große Wächter.",
+    "audio": "audio/fact_030.wav"
+  },
+  {
+    "id": "fact_031",
+    "category": "Welt",
+    "title": "Tiefe Dunkelheit",
+    "text": "Der Wächter, auch Warden genannt, reagiert besonders auf Vibrationen.",
+    "audio": "audio/fact_031.wav"
+  },
+  {
+    "id": "fact_032",
+    "category": "Welt",
+    "title": "Dörfer",
+    "text": "Dörfer können in unterschiedlichen Biomen mit verschiedenem Baustil entstehen.",
+    "audio": "audio/fact_032.wav"
+  },
+  {
+    "id": "fact_033",
+    "category": "Mechaniken",
+    "title": "Fallender Sand",
+    "text": "Sand und Kies fallen herunter, wenn sie nicht durch einen Block gestützt werden.",
+    "audio": "audio/fact_033.wav"
+  },
+  {
+    "id": "fact_034",
+    "category": "Mechaniken",
+    "title": "Kürbislaternen",
+    "text": "Geschnitzte Kürbisse lassen sich mit Fackeln zu Kürbislaternen kombinieren.",
+    "audio": "audio/fact_034.wav"
+  },
+  {
+    "id": "fact_035",
+    "category": "Mechaniken",
+    "title": "Verzauberung",
+    "text": "Bücherregale um einen Zaubertisch können stärkere Verzauberungen ermöglichen.",
+    "audio": "audio/fact_035.wav"
+  },
+  {
+    "id": "fact_036",
+    "category": "Mechaniken",
+    "title": "Amboss",
+    "text": "Mit einem Amboss kannst du Gegenstände reparieren und umbenennen.",
+    "audio": "audio/fact_036.wav"
+  },
+  {
+    "id": "fact_037",
+    "category": "Mechaniken",
+    "title": "Kompass",
+    "text": "Ein normaler Kompass zeigt in der Oberwelt zur Welt-Spawnposition.",
+    "audio": "audio/fact_037.wav"
+  },
+  {
+    "id": "fact_038",
+    "category": "Mechaniken",
+    "title": "Betten im Nether",
+    "text": "Der Versuch, im Nether in einem normalen Bett zu schlafen, löst eine Explosion aus.",
+    "audio": "audio/fact_038.wav"
+  },
+  {
+    "id": "fact_039",
+    "category": "Mechaniken",
+    "title": "Totem der Unsterblichkeit",
+    "text": "Ein Totem der Unsterblichkeit kann dich unter bestimmten Bedingungen vor dem Tod bewahren.",
+    "audio": "audio/fact_039.wav"
+  },
+  {
+    "id": "fact_040",
+    "category": "Mechaniken",
+    "title": "Karten",
+    "text": "Leere Karten können benutzt werden, um die Umgebung zu kartieren.",
+    "audio": "audio/fact_040.wav"
+  }
+]
